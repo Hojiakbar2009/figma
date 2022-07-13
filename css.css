@@ -6,8 +6,10 @@
     text-decoration: none;
 }
 
+
 button{
     cursor: pointer;
+    
 }
 body{
     display: flex;
