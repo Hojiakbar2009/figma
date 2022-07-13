@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,16 +7,18 @@
 }
 
 
-button{
+button {
     cursor: pointer;
-    
+
 }
-body{
+
+body {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.wrapper{
+
+.wrapper {
     max-width: 1440px;
     width: 100%;
     height: auto;
@@ -53,7 +55,8 @@ body{
     flex-direction: column;
     align-items: flex-start;
 }
-.texrt{
+
+.texrt {
     width: 100%;
     height: auto;
     display: flex;
@@ -65,12 +68,14 @@ body{
     padding: 26px;
     position: absolute;
 }
-.sec1left :nth-child(2){
+
+.sec1left :nth-child(2) {
     width: 980px;
     height: 688px;
-    
+
 }
-.texrt p{
+
+.texrt p {
     font-weight: 400;
     font-size: 25px;
     line-height: 32px;
@@ -99,7 +104,7 @@ body{
     align-items: center;
     flex-direction: row;
     padding-left: 150px;
-    
+
 }
 
 .icon button {
@@ -161,7 +166,7 @@ body{
 }
 
 
-.blackdiv{
+.blackdiv {
     background-color: black;
     width: 376px;
     color: white;
@@ -170,7 +175,8 @@ body{
     padding: 46px;
     margin-right: 50px;
 }
-.ota p{
+
+.ota p {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -181,7 +187,8 @@ body{
     color: #F1F1EE;
 
 }
-.ota span{
+
+.ota span {
     font-weight: 400;
     font-size: 12px;
     line-height: 19px;
@@ -192,7 +199,8 @@ body{
 
     color: #F1F1EE;
 }
-.ota hr{
+
+.ota hr {
     width: 87px;
     background: #F1F1EE;
     height: 1px;
@@ -209,7 +217,7 @@ body{
 
 /* ====== sec_2 ======== */
 
-.section2{
+.section2 {
     width: 100%;
     height: auto;
     display: flex;
@@ -219,7 +227,8 @@ body{
     background: #9C8554;
 
 }
-.sec_left{
+
+.sec_left {
     width: 100%;
     height: 800px;
     display: flex;
@@ -228,7 +237,8 @@ body{
     flex-direction: column;
     padding: 40px 25px 40px 40px;
 }
-.textp p{
+
+.textp p {
     font-weight: 400;
     font-size: 15px;
     line-height: 19px;
@@ -238,14 +248,16 @@ body{
 
     color: #B2B2B2;
 }
-.spandiv{
-    
+
+.spandiv {
+
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
 }
-.spandiv span{
+
+.spandiv span {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -256,23 +268,25 @@ body{
     color: #B2B2B2;
 
 }
-.spandiv hr{
-        width: 217px;
+
+.spandiv hr {
+    width: 217px;
     height: 1px;
     background: #B2B2B2;
 }
 
 
-.sec_right{
+.sec_right {
     width: 100%;
     height: 800px;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
     flex-direction: column;
-   
+
 }
-.sec_right p{
+
+.sec_right p {
     padding: 40px 40px 40px 0px;
     font-weight: 400;
     font-size: 25px;
@@ -291,7 +305,7 @@ body{
 
 
 
-.section3{
+.section3 {
     width: 100%;
     height: auto;
     display: flex;
@@ -299,7 +313,8 @@ body{
     justify-content: center;
     flex-direction: row;
 }
-.sec_left3{
+
+.sec_left3 {
     width: 720px;
     height: 800px;
     background-image: url(./img/Rectangle\ \(4\).png);
@@ -310,7 +325,8 @@ body{
     justify-content: flex-end;
     padding-right: 450px;
 }
-.sec_left3 p{
+
+.sec_left3 p {
     font-weight: 400;
     font-size: 12px;
     line-height: 19px;
@@ -321,13 +337,15 @@ body{
 
     color: #262626;
 }
-.sec_left3 hr{
+
+.sec_left3 hr {
     width: 171px;
     background: #262626;
     margin: 0px 0px 40px 40px;
 
 }
-.sec_right3{
+
+.sec_right3 {
     width: 700px;
     height: 800px;
     background-image: url(./img/Rectangle\ \(5\).png);
@@ -338,7 +356,8 @@ body{
     justify-content: flex-end;
     padding-right: 480px;
 }
-.sec_right3 p{
+
+.sec_right3 p {
     font-weight: 400;
     font-size: 12px;
     line-height: 19px;
@@ -349,7 +368,8 @@ body{
 
     color: #262626;
 }
-.sec_right3 hr{
+
+.sec_right3 hr {
     width: 141px;
     background: #262626;
     margin: 0px 0px 40px 40px;
@@ -357,7 +377,7 @@ body{
 }
 
 /* ==========  sec_4 ========== */
-.section4{
+.section4 {
     width: 100%;
     height: auto;
     display: flex;
@@ -366,19 +386,21 @@ body{
     flex-direction: row;
     background: #EBEBEB;
     padding: 116px 150px 116px 25px;
-    
+
 }
-.sec4_right{    
+
+.sec4_right {
     width: 310px;
     height: 311px;
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
     flex-direction: column;
-    
+
 
 }
-#pi1{
+
+#pi1 {
     font-weight: 400;
     font-size: 15px;
     line-height: 19px;
@@ -388,7 +410,8 @@ body{
 
     color: #262626;
 }
-#pi2{
+
+#pi2 {
     font-weight: 400;
     font-size: 28px;
     line-height: 32px;
@@ -398,7 +421,8 @@ body{
 
     color: #262626;
 }
-#span1{
+
+#span1 {
     font-weight: 400;
     font-size: 14px;
     line-height: 19px;
@@ -408,7 +432,8 @@ body{
 
     color: #262626;
 }
-#span2{
+
+#span2 {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -419,19 +444,21 @@ body{
     color: #262626;
 
 }
-#span3{
+
+#span3 {
     font-weight: 400;
     font-size: 12px;
     line-height: 19px;
     /* identical to box height, or 158% */
-    
+
     letter-spacing: 1.2px;
     text-transform: uppercase;
-    
+
     color: #262626;
-     
+
 }
-#hr1{
+
+#hr1 {
     width: 78px;
     height: 1px;
 }
@@ -478,7 +505,7 @@ body{
 }
 
 .left .plar {
-    
+
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -498,10 +525,12 @@ body{
     align-items: flex-start;
     flex-direction: column;
 }
-.salom hr{
+
+.salom hr {
     width: 79px;
     height: 1px;
 }
+
 .salom p {
     font-weight: 400;
     font-size: 12px;
@@ -513,7 +542,8 @@ body{
     margin-bottom: 5px;
     color: #B2B2B2;
 }
-.right{
+
+.right {
     width: 100%;
     height: auto;
     display: flex;
@@ -523,11 +553,13 @@ body{
 
 
 }
-.right img{
+
+.right img {
     width: 900px;
     height: 688px;
 }
-.right p{
+
+.right p {
     font-weight: 400;
     font-size: 25px;
     line-height: 32px;
@@ -601,7 +633,7 @@ body{
 
 /* ======= sec_7 ========= */
 
-.section7{
+.section7 {
     width: 100%;
     height: auto;
     display: flex;
@@ -611,7 +643,8 @@ body{
     background: #504B4D;
 
 }
-.sec_left7{
+
+.sec_left7 {
     width: 100%;
     height: 800px;
     display: flex;
@@ -620,7 +653,8 @@ body{
     flex-direction: column;
     padding: 40px 25px 40px 40px;
 }
-.textp7 p{
+
+.textp7 p {
     font-weight: 400;
     font-size: 15px;
     line-height: 19px;
@@ -630,14 +664,16 @@ body{
 
     color: #B2B2B2;
 }
-.spandiv7{
-    
+
+.spandiv7 {
+
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
 }
-.spandiv7 span{
+
+.spandiv7 span {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -648,23 +684,25 @@ body{
     color: #B2B2B2;
 
 }
-.spandiv7 hr{
-        width: 217px;
+
+.spandiv7 hr {
+    width: 217px;
     height: 1px;
     background: #B2B2B2;
 }
 
 
-.sec_right7{
+.sec_right7 {
     width: 100%;
     height: 800px;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
     flex-direction: column;
-   
+
 }
-.sec_right7 p{
+
+.sec_right7 p {
     padding: 40px 40px 40px 0px;
     font-weight: 400;
     font-size: 25px;
@@ -682,7 +720,7 @@ body{
 
 /* ========== sec_8 ========= */
 
-.section8{
+.section8 {
     width: 100%;
     height: auto;
     display: flex;
@@ -692,7 +730,8 @@ body{
     background: #B04836;
 
 }
-.sec_left8{
+
+.sec_left8 {
     width: 100%;
     height: 800px;
     display: flex;
@@ -701,7 +740,8 @@ body{
     flex-direction: column;
     padding: 40px 25px 40px 40px;
 }
-.textp8 p{
+
+.textp8 p {
     font-weight: 400;
     font-size: 15px;
     line-height: 19px;
@@ -711,14 +751,16 @@ body{
 
     color: #B2B2B2;
 }
-.spandiv8{
-    
+
+.spandiv8 {
+
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-direction: column;
 }
-.spandiv8 span{
+
+.spandiv8 span {
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -729,23 +771,25 @@ body{
     color: #B2B2B2;
 
 }
-.spandiv8 hr{
-        width: 217px;
+
+.spandiv8 hr {
+    width: 217px;
     height: 1px;
     background: #B2B2B2;
 }
 
 
-.sec_right8{
+.sec_right8 {
     width: 100%;
     height: 800px;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
     flex-direction: column;
-   
+
 }
-.sec_right8 p{
+
+.sec_right8 p {
     padding: 40px 40px 40px 0px;
     font-weight: 400;
     font-size: 25px;
@@ -760,7 +804,7 @@ body{
 
 /* === footer ==== */
 
-footer{
+footer {
     width: 100%;
     height: 198px;
     background-color: black;
@@ -769,7 +813,7 @@ footer{
     justify-content: space-between;
 }
 
-.foot_left{
+.foot_left {
     width: 720px;
     height: 198px;
     display: flex;
@@ -778,32 +822,32 @@ footer{
     padding: 29px 40px 20px 40px;
 }
 
-.footer_1_past{
+.footer_1_past {
     width: 100%;
     display: flex;
 }
 
-.foot_1_t{
+.foot_1_t {
     width: 100%;
     display: flex;
     align-items: start;
     justify-content: flex-start;
 }
 
-.foot_1_t p{
+.foot_1_t p {
     font-style: normal;
     padding-top: 8px;
-font-weight: 400;
-font-size: 14px;
-line-height: 19px;
-/* identical to box height, or 136% */
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height, or 136% */
 
-letter-spacing: 0.5px;
+    letter-spacing: 0.5px;
 
-color: #CCCCCC;
+    color: #CCCCCC;
 }
 
-.foot_1_p{
+.foot_1_p {
     width: 100%;
     display: flex;
     align-items: start;
@@ -813,17 +857,17 @@ color: #CCCCCC;
 
 }
 
-.foot_1_p p{
+.foot_1_p p {
     padding-top: 8px;
     font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 19px;
-/* identical to box height, or 136% */
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height, or 136% */
 
-letter-spacing: 0.5px;
+    letter-spacing: 0.5px;
 
-color: #CCCCCC;
+    color: #CCCCCC;
 }
 
 input {
@@ -833,46 +877,46 @@ input {
     background-color: transparent;
     color: inherit;
     background: transparent;
-  }
+}
 
-  .footer_1_button{
+.footer_1_button {
     padding: 25px 15px;
     width: 100%;
-  }
+}
 
-  .footer_1_button button{
+.footer_1_button button {
     font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 19px;
-/* identical to box height, or 158% */
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    /* identical to box height, or 158% */
 
-letter-spacing: 1.2px;
-text-transform: uppercase;
-background-color: 
-#262626;
-color: #CCCCCC;
-  }
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    background-color:
+        #262626;
+    color: #CCCCCC;
+}
 
 
-  .footer_right{
+.footer_right {
     width: 100%;
     height: auto;
     display: flex;
     align-items: start;
     justify-content: flex-end;
-  }
+}
 
-  .radio{
+.radio {
     width: 16px;
     height: 16px;
     background-color: #fff;
-  }
+}
 
-  .btn_input{
+.btn_input {
     width: 80px;
     padding-top: 50px;
 
-  }
+}
 
 /* === footer === */
